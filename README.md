@@ -17,12 +17,14 @@ Other vehicle attributes
 The task is formulated as a regression problem.
 
 🛠️ Technologies Used
+
 Python
 AutoGluon (AutoML)
 Pandas
 NumPy
 Scikit-learn
 Jupyter Notebook
+
 ⚙️ Approach
 Data preprocessing and cleaning.
 Feature analysis and basic feature engineering.
@@ -31,6 +33,7 @@ Automated model selection
 Hyperparameter tuning
 Ensemble learning
 Trained multiple models and combined them using ensemble techniques to improve prediction performance.
+
 📊 Model
 
 The AutoML framework automatically evaluated several models including:
@@ -47,20 +50,7 @@ The final prediction is generated using stacked ensemble models to improve robus
 ├── dataset/
 ├── models/
 └── README.md
-🚀 How to Run
-Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-Install dependencies
-pip install autogluon pandas numpy scikit-learn
-Run the notebook
-jupyter notebook
-📈 Key Highlights
-Applied AutoML using AutoGluon to automate model training.
-Used ensemble learning to improve model robustness.
-Built an efficient pipeline for regression-based price prediction.
-🔗 Kaggle Competition
 
-KaggleX 2024 – Used Car Price Prediction
 
 
 
