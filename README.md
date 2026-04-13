@@ -1,4 +1,4 @@
-# 🚗 Used Car Price Prediction – KaggleX Competition
+# Used Car Price Prediction – KaggleX Competition
 
 This project was developed as part of the **KaggleX 2024 competition**, where the goal was to build a machine learning model to predict used car prices based on various vehicle attributes.
 
